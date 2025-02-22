@@ -18,3 +18,7 @@ Instrucciones de Descarga e Instalación de FL Studio 20 Portable. Primero Desca
 ⚠ Recomendaciones ✔ No elimines ningún archivo de la carpeta, ya que todos son necesarios para el correcto funcionamiento del programa. ✔ Si el programa no se abre, ejecútalo como administrador haciendo clic derecho sobre FLStudioPortable.exe y seleccionando "Ejecutar como administrador". ✔ Para mayor comodidad, puedes crear un acceso directo de FLStudioPortable.exe en tu escritorio.
 
 Ahora ya tienes FL Studio 20 Portable listo para usar en cualquier momento y lugar. ¡Disfruta creando música sin límites! 🎶🔥
+
+Pagina web https://sites.google.com/view/fl-studio-portable/inicio
+Youtube lapapaloca192 https://www.youtube.com/@lapapaloca192
+aixxito youtube https://www.youtube.com/@aixxitoyeah
